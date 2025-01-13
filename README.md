@@ -1,6 +1,6 @@
 This repository explores topic modeling techniques to analyze the evolution of topics in the annual 10-K filings of four major technology companies—Google, Microsoft, Apple, and Meta—spanning 2017 to 2023.
 
-##Objective
+## Objective
 
 The primary goal of this analysis is to investigate the following hypotheses:
 
@@ -8,7 +8,7 @@ The primary goal of this analysis is to investigate the following hypotheses:
 - Has there been a significant increase in the discussion of AI-related topics in the 10-K filings from 2017 to 2023?
 
 
-##Approach
+## Approach
 
 Two state-of-the-art topic modeling methods are utilized:
 
