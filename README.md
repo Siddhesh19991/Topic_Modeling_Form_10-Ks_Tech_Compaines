@@ -20,5 +20,5 @@ By leveraging these complementary methodologies, the study ensures robust analys
 This repository contains Jupyter notebooks for each company (Google, Microsoft, Apple, Meta) for streamlined and reproducible experimentation.
 
 
-The detailed report can be found here.
+The detailed report can be found [here](https://drive.google.com/file/d/100-4edPeD14glKFaVgsRcNdLELzxvn59/view?usp=sharing).
 
